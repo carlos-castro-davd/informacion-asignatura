@@ -53,6 +53,8 @@ La evaluación consta de tres partes diferentes:
 
 __La aplicación deberá ser desarrollada periodicamente. Se considerará parte de la puntuación las actualizaciones y las mejoras observadas que se realicen durante todo el semestre (10%). Por último la aplicación deberá ser expuesta en clase el día 29 de noviembre de 2021 (10%).__
 
+__IMPORTANTE: PARA APROBAR LA ASIGNATURA HABRÁ QUE APROBAR TODAS LAS PARTES QUE LA CONTIENEN.__
+
 ## Entorno de trabajo
 
 __Todos los desarrollos se guardarán dentro de este repositorio en el proyecto asignado correspondiente__, el alumnado tendrá acceso a la lectura de todos los proyectos y de escritura únicamente en el suyo propio.
