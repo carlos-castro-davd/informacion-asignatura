@@ -113,7 +113,7 @@ app.layout = html.Div(
                     ],
                     style = {
                         "width": "700px",
-                        "height": "575px",
+                        "height": "600px",
                         "display": "inline-block",
                         "border-style": "ridge",
                         "border-color": "black"
@@ -161,7 +161,7 @@ app.layout = html.Div(
                     ],
                     style = {
                         "width": "700px",
-                        "height": "575px",
+                        "height": "600px",
                         "display": "inline-block",
                         "margin-left": "20px",
                         "border-style": "ridge",
